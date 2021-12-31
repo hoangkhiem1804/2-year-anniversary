@@ -3,10 +3,10 @@ const CONFIG = {
     introDesc: `Chúc mừng kỉ niệm 2 năm nhó 👩‍❤️‍💋‍👨
     Cảm ơn em thời gian vừa qua
     Đã ở bên anhhhhh
-    Đằng sau chữ yêu đây là thương ❣️❣️❣️`,
-    btnIntro: 'Ấn đi xem có gì 😜',
+    ❣️Đằng sau chữ yêu đây là thương❣️`,
+    btnIntro: 'Ấn đi xem có gì nàoo 😜',
     title: 'Chúc mừng kỉ niệm 2 năm của chúng taaaa 😙',
-    desc: 'Hy vọng 2024 chúng ta sẽ về chung 1 nhà ',
+    desc: 'Hy vọng 2024 chúng ta sẽ về chung 1 nhà 💒 ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
